@@ -1,0 +1,49 @@
+{
+  "headerJP": {
+    "profile": "プロフィール",
+    "name": "名前",
+    "birthday": "生年月日",
+    "birthplace": "出身",
+    "motto": "座右の銘",
+    "hobbies": "趣味",
+    "skill": "特技",
+    "highlight": "仕事でのハイライト",
+    "message": "同僚へのメッセージ"
+  },
+
+  "headerEN": {
+    "profile": "Profile",
+    "name": "Name",
+    "birthday": "Birthday",
+    "birthplace": "From",
+    "motto": "Life Motto",
+    "hobbies": "Hobbies",
+    "skill": "Skills",
+    "highlight": "Work Highlight",
+    "message": "Message to Colleagues"
+  },
+
+  "userJP": {
+    "name": "イワブチ シオリ",
+    "birthday": "1997-08-23",
+    "birthplace": "ニュージーランド",
+    "motto": "やらない後悔よりやる後悔",
+    "hobbies": "お笑い番組・食べ歩き・身体を動かすこと・漫画",
+    "skill": "English, I guess?",
+    "highlight": "開発むっちゃ楽しいー★",
+    "message": "誰が何と言おうと日本食が一番美味しい",
+    "date_of_joining_company": "2024-01"
+  },
+
+  "userEN": {
+    "name": "Shiori G.",
+    "birthday": "1997-08-23",
+    "birthplace": "New Zealand",
+    "motto": "You only live once.",
+    "hobbies": "Comedy, eating out, exercising, manga",
+    "skill": "日本語とか？",
+    "highlight": "Front-end development is fun!",
+    "message": "No matter what people say, Japanese food is the best in the world",
+    "date_of_joining_company": "2024-01"
+  }
+}
